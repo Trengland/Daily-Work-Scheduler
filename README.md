@@ -1,9 +1,15 @@
 # 05 Third-Party APIs: Work Day Scheduler
+LIVE URL - 
+GitHub URL - https://github.com/Trengland/Daily-Work-Scheduler 
+Screenshot - ![image](https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png)
+
+
+
+
+
 
 ## Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
 
 ## User Story
 AS AN employee with a busy schedule
