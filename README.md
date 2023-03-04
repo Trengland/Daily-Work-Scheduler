@@ -3,6 +3,8 @@ LIVE URL - https://trengland.github.io/Daily-Work-Scheduler/
 
 GitHub URL - https://github.com/Trengland/Daily-Work-Scheduler 
 
+Internal & External Collaborations for this project - some open/starter code(s) retrieved through github and chatGPT - and I also worked with a tutor and 2 TA's debugging and perfecting the application. As well as help from my instructor on Github.
+
 Screenshot - ![image](https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png)
 
 
